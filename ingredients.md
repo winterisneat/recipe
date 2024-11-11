@@ -1,4 +1,5 @@
-Ingredients:
+Let's Begin!
+Ingredients :
 800g boneless, skinless chicken thighs, cut into bite-sized pieces
 1 tbsp lemon juice
 ¼ cup plain unsweetened yoghurt
@@ -18,3 +19,4 @@ Ingredients:
 ¼ cup plain unsweetened yoghurt
 1 tsp dried fenugreek leaves (optional)
 Fresh chopped parsley, to serve
+Enjoy my recipe!
