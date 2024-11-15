@@ -2,7 +2,7 @@
 
 Good receipe that I have made at home, this github is for a data science course I am taken.
 
-The receipe was taken from the following website: https://chelseawinter.co.nz/butter-chicken/
+**The receipe was taken from the following website:** https://chelseawinter.co.nz/butter-chicken/
 
 I have made this receipe on the following days:
 1. Monday
