@@ -8,6 +8,7 @@ I have made this recipe on the following days:
 1. Monday
 2. Tuesday
 3. Wednesday
+4. Trying to figure out if I configured for Pull Requests 
 
 ### Butter Chicken Curry Photo
 ![Photo of the Recipe](receipe.jpg)
